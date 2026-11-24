@@ -11,6 +11,6 @@ Découvrez notre recette de hamburger maison
 * Salade
 * Tomate
 * Fromage
-- Sauce barbecue
-- Oignons
-- bacon
+* Sauce barbecue
+* Oignons
+* bacon
