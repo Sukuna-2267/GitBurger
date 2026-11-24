@@ -3,7 +3,7 @@ projet de découverte de Git et GitHub
 
 Bienvenue chez **GitBurger** !
 
-Découvrez notrte recette de hamburger maison
+Découvrez notre recette de hamburger maison
 
 ## Notre recette 
 * Pain Burger
